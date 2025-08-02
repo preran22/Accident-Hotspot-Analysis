@@ -39,8 +39,3 @@ A sample dataset is included as `sample_accident_data.csv`. You can replace it w
 
 ---
 
-## 🚀 How to Run
-1️⃣ Clone this repository  
-```bash
-git clone https://github.com/your-username/accident-hotspot-analysis.git
-cd accident-hotspot-analysis
