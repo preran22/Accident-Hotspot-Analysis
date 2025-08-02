@@ -38,4 +38,12 @@ A sample dataset is included as `sample_accident_data.csv`. You can replace it w
 - **Folium** → Interactive Map Visualization  
 
 ---
+📊 Output
+✅ Accident distribution plots
+✅ Clustering results using KMeans and DBSCAN
+✅ Interactive heatmap of accident hotspots
 
+📈 Future Improvements
+🔹 Add real-time accident data API integration
+🔹 Build a web dashboard for hotspot visualization
+🔹 Use time-series analysis to find accident trends
